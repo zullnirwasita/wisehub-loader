@@ -1,6 +1,3 @@
--- ===== WISEHUB UNIVERSAL LOADER V3 =====
--- Premium UI with Gradient, Animations & Enhanced Error Handling
-
 local HttpService = game:GetService("HttpService")
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
